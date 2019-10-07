@@ -1,0 +1,10 @@
+D:\Sem2 year1\GADE_Task2_19013066\GADE_Task2_19013066\obj\Debug\GADE_Task2_19013066.Form1.resources
+D:\Sem2 year1\GADE_Task2_19013066\GADE_Task2_19013066\obj\Debug\GADE_Task2_19013066.Properties.Resources.resources
+D:\Sem2 year1\GADE_Task2_19013066\GADE_Task2_19013066\obj\Debug\GADE_Task2_19013066.csproj.GenerateResource.cache
+D:\Sem2 year1\GADE_Task2_19013066\GADE_Task2_19013066\obj\Debug\GADE_Task2_19013066.csproj.CoreCompileInputs.cache
+D:\Sem2 year1\GADE_Task2_19013066\GADE_Task2_19013066\bin\Debug\GADE_Task2_19013066.exe.config
+D:\Sem2 year1\GADE_Task2_19013066\GADE_Task2_19013066\bin\Debug\GADE_Task2_19013066.exe
+D:\Sem2 year1\GADE_Task2_19013066\GADE_Task2_19013066\bin\Debug\GADE_Task2_19013066.pdb
+D:\Sem2 year1\GADE_Task2_19013066\GADE_Task2_19013066\obj\Debug\GADE_Task2_19013066.csprojAssemblyReference.cache
+D:\Sem2 year1\GADE_Task2_19013066\GADE_Task2_19013066\obj\Debug\GADE_Task2_19013066.exe
+D:\Sem2 year1\GADE_Task2_19013066\GADE_Task2_19013066\obj\Debug\GADE_Task2_19013066.pdb

@@ -1,0 +1,1 @@
+RResource building  Resource:{R};15, 19, 3, 1
